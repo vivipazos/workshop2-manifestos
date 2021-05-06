@@ -16,7 +16,7 @@ That support for **environmental policies** was strongest in the 90s around the 
 
 <img src="https://github.com/vivipazos/workshop2-manifestos/blob/main/Svelte-Manifesto/public/firstScreenshot.png?raw=true" width="400">
 
-And, then interactive scatter plot with a filter by country and election years.
+And, then an interactive scatter plot with a filter by country and election years.
 
 <img src="https://github.com/vivipazos/workshop2-manifestos/blob/main/Svelte-Manifesto/public/secondScreenshot.png?raw=true" width="400">
 
