@@ -8,18 +8,19 @@ We’d want to focus on Europe’s ideological space and how it has changed sign
 
 ## What did we find out from the data?
 
+That support for **environmental policies** was strongest in the 90s around the time of the Kyoto Protocol - even among right-wing parites. Since then, however, support has waivered, peaking only slightly around key climate agreements like 2015's Paris agreement. Left-wing parties are now supporting most of the drive towards green mentions in political manifestos.
 
 ## How did we make it?
 
 1. Using a connected scatter plot with a scrolly to explain the overall trends.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="https://github.com/vivipazos/workshop2-manifestos/blob/main/Svelte-Manifesto/public/firstScreenshot.png?raw=true" width="400">
 
 And, then interactive scatter plot with a filter by country and election years.
 
 <img src="https://github.com/vivipazos/workshop2-manifestos/blob/main/Svelte-Manifesto/public/secondScreenshot.png?raw=true" width="400">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="https://github.com/vivipazos/workshop2-manifestos/blob/main/Svelte-Manifesto/public/thirdScreenshot.png?raw=true" width="400">
 
 ## Who made this?
 
