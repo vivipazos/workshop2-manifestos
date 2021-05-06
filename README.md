@@ -1,7 +1,42 @@
 
-# Workshop 2: The green shift in Euro politics
 
-**Students**: Rebecca, Annia, and Laura ; **Mentors**: Xaquin GV and Matt Osborn
+![Logo](https://github.com/vivipazos/workshop2-manifestos/blob/main/Svelte-Manifesto/public/header.png?raw=true)
+# How support for the green agenda has grown, and waivered, over the last 30 years in European poltics
+
+[The Manifesto project](https://manifesto-project.wzb.eu/) is a massive effort to quantify and normalize in time and space (over 50 countries since 1945) every party’s policy positions derived from content analysis of their electoral programs. 
+We’d want to focus on Europe’s ideological space and how it has changed significantly since the 90s. Social research is increasingly focused on the causes and effects of polarization. This dataset gives us some insight into whether these shifts are broad or narrow, if they’re clustered around certain issues or they’re sweeping changes, if they are localized or across many countries.
+
+## What did we find out from the data?
+
+
+## How did we make it?
+
+1. Using a connected scatter plot with a scrolly to explain the overall trends.
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+And, then interactive scatter plot with a filter by country and election years.
+
+<img src="https://github.com/vivipazos/workshop2-manifestos/blob/main/Svelte-Manifesto/public/secondScreenshot.png?raw=true" width="400">
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Who made this?
+
+- [Ànnia Monreal](https://github.com/lamonre)
+- [Laura Aragó](https://github.com/laurarago)
+- [Rebecca Pazos](https://github.com/vivipazos)
+
+  
+## Why did they do this?
+
+This project was created by students for the [Masters in Visual Tools to Empower Citizens](http://www.mastervisualtoolsudg.com/) with the University of Girona. 
+They were assisted by mentors [Xaquín G.V.](http://xocas.com/) and [Matt Osborn](https://www.linkedin.com/in/mosbrn/).
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+  
 
 - [Slack channel](https://mvtecworkspace.slack.com/archives/C01TCRHKWPL)
 - [Airtable Calendar](https://airtable.com/shrSeMUhhLbotxQns)
