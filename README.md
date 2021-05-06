@@ -12,6 +12,8 @@ That support for **environmental policies** was strongest in the 90s around the 
 
 ## How did we make it?
 
+You can view the project [here on Vercel](https://workshop2-manifestos.vercel.app/)
+
 1. Using a connected scatter plot with a scrolly to explain the overall trends.
 
 <img src="https://github.com/vivipazos/workshop2-manifestos/blob/main/Svelte-Manifesto/public/firstScreenshot.png?raw=true" width="400">
@@ -33,11 +35,15 @@ And, then an interactive scatter plot with a filter by country and election year
 
 This project was created by students for the [Masters in Visual Tools to Empower Citizens](http://www.mastervisualtoolsudg.com/) with the University of Girona. 
 They were assisted by mentors [Xaquín G.V.](http://xocas.com/) and [Matt Osborn](https://www.linkedin.com/in/mosbrn/).
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## Also, we won the workshop!
+We got a win for this project out of the 2020/2021 cohort. All women teams for the win.
 
-  
+![Alt Text](https://media.giphy.com/media/xT8qB5nRllQYU3XSjS/giphy.gif)
+
+---
+
+## Other details below >>
 
 - [Slack channel](https://mvtecworkspace.slack.com/archives/C01TCRHKWPL)
 - [Airtable Calendar](https://airtable.com/shrSeMUhhLbotxQns)
